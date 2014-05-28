@@ -1,5 +1,4 @@
 # Antivirus: The Game
-=================
 
 [OSI Approved License]
 
@@ -18,7 +17,6 @@ Permission is granted to anyone to use this software for any purpose, including 
 3. This notice may not be removed or altered from any source distribution.
 
 ## External content used by Antivirus: The Game
-=================
 
 ### FONTS
 [Megatron](http://www.pixelsagas.com/?page_id=930) by Neale Davidson

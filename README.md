@@ -1,9 +1,7 @@
 # Antivirus: The Game
-=================
 2D game made with [SFML](http://www.sfml-dev.org/) and [Microsoft Visual Studio C++ 2012](http://www.microsoft.com/en-us/download/details.aspx?id=34673)
 
 ## License
-=================
 [OSI Approved License]
 
 [The zlib/libpng License](http://opensource.org/licenses/Zlib)
